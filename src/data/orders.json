@@ -38,9 +38,10 @@
       "unitPrice": 22,
       "quantity": 1,
       "totalAmount": 22,
-      "status": "created",
+      "status": "cancelled",
       "createdAt": "2026-02-20T03:11:24.945Z",
-      "updatedAt": "2026-02-20T03:11:24.945Z"
+      "updatedAt": "2026-02-20T17:56:01.757Z",
+      "cancelledAt": "2026-02-20T17:56:01.757Z"
     }
   ]
 }

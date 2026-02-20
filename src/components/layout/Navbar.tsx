@@ -93,9 +93,6 @@ export default function Navbar() {
             <Link href="/my-orders" className={desktopPillBase} aria-label="Orders">
               <ShoppingCart className="h-4 w-4" />
               Orders
-              <span className="ml-1 rounded-full bg-[var(--primary-600)] px-1.5 py-0.5 text-[10px] font-bold leading-none text-white">
-                3
-              </span>
             </Link>
 
             <SupportChat showLabel label="Support" className="text-[var(--text-muted)] hover:text-[var(--text-strong)]" />

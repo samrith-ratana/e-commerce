@@ -50,15 +50,15 @@
       "content": "uvifcfvbnm,.",
       "category": "Fashion",
       "price": 22,
-      "stock": 0,
+      "stock": 1,
       "images": [
         "/uploads/posts/29-1771556661041-02aed3b1.png"
       ],
-      "status": "sold_out",
+      "status": "published",
       "id": "P000004",
       "authorId": "086fe34a-57e1-48aa-a4a4-88f0431da03a",
       "createdAt": "2026-02-20T03:04:21.109Z",
-      "updatedAt": "2026-02-20T03:11:24.945Z"
+      "updatedAt": "2026-02-20T17:56:01.757Z"
     }
   ]
 }

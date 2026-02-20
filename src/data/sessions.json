@@ -1,13 +1,6 @@
 {
   "sessions": [
     {
-      "sessionId": "a6657f08-b830-454f-a0f7-843a04a846a6",
-      "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
-      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTU4NTM4NiwiZXhwIjoxNzcyMTkwMTg2fQ.E0Is_aC50R46qbGMGqLgJUF1g1KZb9IwyB_CJhxr3-I",
-      "createdAt": "2026-02-20T11:03:06.145Z",
-      "expiresAt": "2026-02-27T11:03:06.145Z"
-    },
-    {
       "sessionId": "8529ce7b-bf4d-4d2c-9643-6fe3e0d06e4c",
       "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
       "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTU5MDA1OCwiZXhwIjoxNzcyMTk0ODU4fQ.Yv6YE7GdJdILHceGwwdu6yFkOr1ICgvWckeegVsXQn4",
@@ -34,6 +27,13 @@
       "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTYwMzk4MCwiZXhwIjoxNzcyMjA4NzgwfQ.BcErzrJaBNvArrWySlNzRvyScRBxFujxKYs9K4jMQZ4",
       "createdAt": "2026-02-20T16:13:00.050Z",
       "expiresAt": "2026-02-27T16:13:00.050Z"
+    },
+    {
+      "sessionId": "18564f72-01a8-4924-8db0-3f542d16569e",
+      "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTYwOTk3NiwiZXhwIjoxNzcyMjE0Nzc2fQ.gozg4r7y0eWCQ1qYE7G3KWoaQXTKAkNJ2hwU0BoZtoE",
+      "createdAt": "2026-02-20T17:52:56.082Z",
+      "expiresAt": "2026-02-27T17:52:56.082Z"
     }
   ]
 }
