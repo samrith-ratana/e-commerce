@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "email": "samrithratana10@gmail.com",
+      "passwordHash": "$2b$10$UBE9Ys0yzLGkmfI6NS0Z0OeazQ82Y4u/MIfD82QGfKOlSiEHWIx7q"
+    },
+    {
+      "id": "086fe34a-57e1-48aa-a4a4-88f0431da03a",
+      "email": "samrithratana@outlook.com",
+      "passwordHash": "$2b$10$0clSkmUtn4zsNxG1MosICekj7PXUyja.sC9fHRQEZLeVLRODgSv0S"
+    },
+    {
+      "id": "571dac6f-b078-44d9-8e08-d35663f6ce98",
+      "email": "s.ratana.b@gmail.com",
+      "passwordHash": "$2b$10$Kco/qhq6LmT6CHAyVKhUK.v6TwO6ZR0gTKMkM4UdxjmIGMGoIO4Gi"
+    },
+    {
+      "id": "08ef06df-92e7-4066-a56d-40cc9e721977",
+      "email": "samrithratana22@mekong.edu.kh",
+      "passwordHash": "$2b$10$Hhq8FwLmlgobT3ssH3wLwOHHw8vunLo5CWqpTeT0AZray2kE93Qey"
+    }
+  ]
+}

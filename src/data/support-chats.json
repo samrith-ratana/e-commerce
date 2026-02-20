@@ -1,0 +1,148 @@
+{
+  "conversations": [
+    {
+      "key": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "userEmail": "guest",
+      "createdAt": "2026-02-20T11:18:35.631Z",
+      "updatedAt": "2026-02-20T11:26:14.951Z",
+      "messages": [
+        {
+          "id": "msg_1771586315631_x4c7b2",
+          "conversationKey": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+          "role": "user",
+          "source": "web",
+          "text": "hi",
+          "createdAt": "2026-02-20T11:18:35.631Z",
+          "telegramMessageId": 227
+        },
+        {
+          "id": "msg_1771586335278_siu3gg",
+          "conversationKey": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+          "role": "user",
+          "source": "web",
+          "text": "/",
+          "createdAt": "2026-02-20T11:18:55.278Z",
+          "telegramMessageId": 229
+        },
+        {
+          "id": "msg_1771586651976_6z8aor",
+          "conversationKey": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+          "role": "user",
+          "source": "web",
+          "text": "jo",
+          "createdAt": "2026-02-20T11:24:11.976Z",
+          "telegramMessageId": 233
+        },
+        {
+          "id": "tg_234",
+          "conversationKey": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+          "role": "support",
+          "source": "telegram",
+          "text": "[samrith_rathana] Fi",
+          "createdAt": "2026-02-20T11:25:21.000Z",
+          "telegramMessageId": 234,
+          "replyToTelegramMessageId": 233
+        },
+        {
+          "id": "tg_235",
+          "conversationKey": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+          "role": "support",
+          "source": "telegram",
+          "text": "[samrith_rathana] What can I help you",
+          "createdAt": "2026-02-20T11:25:45.000Z",
+          "telegramMessageId": 235,
+          "replyToTelegramMessageId": 233
+        },
+        {
+          "id": "tg_236",
+          "conversationKey": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+          "role": "support",
+          "source": "telegram",
+          "text": "[samrith_rathana] Hi",
+          "createdAt": "2026-02-20T11:26:16.000Z",
+          "telegramMessageId": 236,
+          "replyToTelegramMessageId": 233
+        }
+      ]
+    },
+    {
+      "key": "user:086fe34a-57e1-48aa-a4a4-88f0431da03a",
+      "userId": "086fe34a-57e1-48aa-a4a4-88f0431da03a",
+      "userEmail": "guest",
+      "createdAt": "2026-02-20T11:27:21.001Z",
+      "updatedAt": "2026-02-20T11:27:38.367Z",
+      "messages": [
+        {
+          "id": "msg_1771586841001_5nlo5i",
+          "conversationKey": "user:086fe34a-57e1-48aa-a4a4-88f0431da03a",
+          "role": "user",
+          "source": "web",
+          "text": "hi",
+          "createdAt": "2026-02-20T11:27:21.001Z",
+          "telegramMessageId": 237
+        },
+        {
+          "id": "tg_238",
+          "conversationKey": "user:086fe34a-57e1-48aa-a4a4-88f0431da03a",
+          "role": "support",
+          "source": "telegram",
+          "text": "[samrith_rathana] Hi",
+          "createdAt": "2026-02-20T11:27:36.000Z",
+          "telegramMessageId": 238,
+          "replyToTelegramMessageId": 237
+        }
+      ]
+    },
+    {
+      "key": "guest:::1",
+      "userId": null,
+      "userEmail": "guest",
+      "createdAt": "2026-02-20T12:01:56.715Z",
+      "updatedAt": "2026-02-20T12:14:30.607Z",
+      "messages": [
+        {
+          "id": "msg_1771588916715_7y17bt",
+          "conversationKey": "guest:::1",
+          "role": "user",
+          "source": "web",
+          "text": "jo",
+          "createdAt": "2026-02-20T12:01:56.715Z",
+          "telegramMessageId": 239
+        },
+        {
+          "id": "tg_240",
+          "conversationKey": "guest:::1",
+          "role": "support",
+          "source": "telegram",
+          "text": "[samrith_rathana] Hi",
+          "createdAt": "2026-02-20T12:06:47.000Z",
+          "telegramMessageId": 240,
+          "replyToTelegramMessageId": 239
+        }
+      ]
+    }
+  ],
+  "telegramMessageIndex": {
+    "227": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "229": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "233": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "234": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "235": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "236": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "237": "user:086fe34a-57e1-48aa-a4a4-88f0431da03a",
+    "238": "user:086fe34a-57e1-48aa-a4a4-88f0431da03a",
+    "239": "guest:::1",
+    "240": "guest:::1",
+    "5580962565:227": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "5580962565:229": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "5580962565:233": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "5580962565:234": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "5580962565:235": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "5580962565:236": "user:5af46884-677c-4e6b-ae88-a2a398c949e8",
+    "5580962565:237": "user:086fe34a-57e1-48aa-a4a4-88f0431da03a",
+    "5580962565:238": "user:086fe34a-57e1-48aa-a4a4-88f0431da03a",
+    "5580962565:239": "guest:::1",
+    "5580962565:240": "guest:::1"
+  }
+}

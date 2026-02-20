@@ -1,0 +1,50 @@
+{
+  "conversations": [
+    {
+      "id": "conv_1771600545433_etslqoeo",
+      "participantIds": [
+        "086fe34a-57e1-48aa-a4a4-88f0431da03a",
+        "5af46884-677c-4e6b-ae88-a2a398c949e8"
+      ],
+      "createdAt": "2026-02-20T15:15:45.433Z",
+      "updatedAt": "2026-02-20T15:15:45.433Z"
+    },
+    {
+      "id": "conv_1771600838044_j9i5wvtl",
+      "participantIds": [
+        "571dac6f-b078-44d9-8e08-d35663f6ce98",
+        "5af46884-677c-4e6b-ae88-a2a398c949e8"
+      ],
+      "createdAt": "2026-02-20T15:20:38.044Z",
+      "updatedAt": "2026-02-20T15:21:27.018Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1771600545433_a9v0hojn",
+      "conversationId": "conv_1771600545433_etslqoeo",
+      "senderId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "receiverId": "086fe34a-57e1-48aa-a4a4-88f0431da03a",
+      "text": "hi",
+      "createdAt": "2026-02-20T15:15:45.433Z",
+      "readAt": "2026-02-20T15:16:03.220Z"
+    },
+    {
+      "id": "msg_1771600838044_hfzq2xek",
+      "conversationId": "conv_1771600838044_j9i5wvtl",
+      "senderId": "571dac6f-b078-44d9-8e08-d35663f6ce98",
+      "receiverId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "text": "hi",
+      "createdAt": "2026-02-20T15:20:38.044Z",
+      "readAt": "2026-02-20T15:20:57.525Z"
+    },
+    {
+      "id": "msg_1771600887018_4hn2npul",
+      "conversationId": "conv_1771600838044_j9i5wvtl",
+      "senderId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "receiverId": "571dac6f-b078-44d9-8e08-d35663f6ce98",
+      "text": "hi",
+      "createdAt": "2026-02-20T15:21:27.018Z"
+    }
+  ]
+}

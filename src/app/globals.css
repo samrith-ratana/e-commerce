@@ -1,0 +1,151 @@
+@import "tailwindcss";
+
+:root {
+  --font-ui: "Inter", "Segoe UI", "SF Pro Text", -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --primary-700: #0f172a;
+  --primary-600: #1e293b;
+  --primary-500: #334155;
+
+  --action-700: #1e40af;
+  --action-600: #1d4ed8;
+  --action-500: #2563eb;
+  --action-100: #dbeafe;
+
+  --tertiary-700: #0f766e;
+  --tertiary-600: #0d9488;
+  --tertiary-100: #ccfbf1;
+
+  --bg-canvas: #f1f5f9;
+  --bg-surface: #ffffff;
+  --bg-muted: #f8fafc;
+  --bg-elevated: #ffffff;
+
+  --text-strong: #0f172a;
+  --text-body: #334155;
+  --text-muted: #64748b;
+  --text-table: #475569;
+
+  --border-subtle: #e2e8f0;
+  --border-strong: #cbd5e1;
+
+  --state-hover: #f8fafc;
+  --state-focus: #3b82f6;
+  --state-success: #059669;
+  --state-danger: #dc2626;
+  --state-warning: #f59e0b;
+
+  --viz-1: #1e3a8a;
+  --viz-2: #1d4ed8;
+  --viz-3: #2563eb;
+  --viz-4: #3b82f6;
+  --viz-5: #93c5fd;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-ui);
+  background: var(--bg-canvas);
+  color: var(--text-strong);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: #dbeafe;
+  color: #1e3a8a;
+}
+
+@layer utilities {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .surface-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: 10px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+  }
+
+  .text-body {
+    color: var(--text-body);
+  }
+
+  .text-muted {
+    color: var(--text-muted);
+  }
+
+  .app-input {
+    @apply w-full border px-4 py-3 text-sm outline-none transition;
+    border-color: var(--border-strong);
+    background: var(--bg-surface);
+    color: var(--text-strong);
+    border-radius: 10px;
+    min-height: 44px;
+  }
+
+  .app-input::placeholder {
+    color: #94a3b8;
+  }
+
+  .app-input:hover {
+    border-color: #94a3b8;
+    background: var(--state-hover);
+  }
+
+  .app-input:focus {
+    border-color: var(--action-500);
+    box-shadow: 0 0 0 2px var(--state-focus);
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-5 py-2.5 text-sm font-bold transition;
+    min-height: 44px;
+    border-radius: 6px;
+    background: var(--action-600);
+    color: #fff;
+  }
+
+  .btn-primary:hover {
+    background: var(--action-700);
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold transition;
+    min-height: 44px;
+    border-radius: 6px;
+    border: 1px solid var(--border-strong);
+    background: var(--bg-surface);
+    color: var(--text-body);
+  }
+
+  .btn-secondary:hover {
+    background: var(--state-hover);
+  }
+
+  .nav-active-left {
+    /* border-left: 2px solid var(--action-600); */
+    background: var(--action-100);
+    color: var(--primary-700);
+  }
+
+  .shimmer {
+    background: linear-gradient(90deg, #e2e8f0 25%, #f8fafc 37%, #e2e8f0 63%);
+    background-size: 400% 100%;
+    animation: shimmer 1.3s ease infinite;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 100% 0;
+  }
+  100% {
+    background-position: -100% 0;
+  }
+}

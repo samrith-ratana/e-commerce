@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "title": "wifi",
+      "content": "hello",
+      "category": "Electronics",
+      "price": 45,
+      "stock": 12,
+      "images": [
+        "/uploads/posts/photo-2026-02-17-19-55-37-1771556266719-c248122e.jpg"
+      ],
+      "status": "published",
+      "id": "P000001",
+      "authorId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "createdAt": "2026-02-20T02:57:47.063Z",
+      "updatedAt": "2026-02-20T03:00:12.302Z"
+    },
+    {
+      "title": "sho",
+      "content": "hooo",
+      "category": "Fashion",
+      "price": 12,
+      "stock": 0,
+      "images": [
+        "/uploads/posts/screenshot-2026-02-18-180037-1771556380334-fc098fac.png"
+      ],
+      "status": "sold_out",
+      "id": "P000002",
+      "authorId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "createdAt": "2026-02-20T02:59:40.448Z",
+      "updatedAt": "2026-02-20T03:03:28.340Z"
+    },
+    {
+      "title": "roter",
+      "content": "jblibnfeon3brbjnm",
+      "category": "Home",
+      "price": 14,
+      "stock": 13,
+      "images": [
+        "/uploads/posts/30-copy-1771556550987-62314ebd.png"
+      ],
+      "status": "published",
+      "id": "P000003",
+      "authorId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "createdAt": "2026-02-20T03:02:31.045Z",
+      "updatedAt": "2026-02-20T03:02:31.045Z"
+    },
+    {
+      "title": "nyv",
+      "content": "uvifcfvbnm,.",
+      "category": "Fashion",
+      "price": 22,
+      "stock": 0,
+      "images": [
+        "/uploads/posts/29-1771556661041-02aed3b1.png"
+      ],
+      "status": "sold_out",
+      "id": "P000004",
+      "authorId": "086fe34a-57e1-48aa-a4a4-88f0431da03a",
+      "createdAt": "2026-02-20T03:04:21.109Z",
+      "updatedAt": "2026-02-20T03:11:24.945Z"
+    }
+  ]
+}

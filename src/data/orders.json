@@ -1,0 +1,46 @@
+{
+  "orders": [
+    {
+      "id": "ORD-000001",
+      "postId": "P000001",
+      "buyerId": "086fe34a-57e1-48aa-a4a4-88f0431da03a",
+      "sellerId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "title": "wifi",
+      "image": "/uploads/posts/photo-2026-02-17-19-55-37-1771556266719-c248122e.jpg",
+      "unitPrice": 45,
+      "quantity": 1,
+      "totalAmount": 45,
+      "status": "created",
+      "createdAt": "2026-02-20T03:00:12.302Z",
+      "updatedAt": "2026-02-20T03:00:12.302Z"
+    },
+    {
+      "id": "ORD-000002",
+      "postId": "P000002",
+      "buyerId": "086fe34a-57e1-48aa-a4a4-88f0431da03a",
+      "sellerId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "title": "sho",
+      "image": "/uploads/posts/screenshot-2026-02-18-180037-1771556380334-fc098fac.png",
+      "unitPrice": 12,
+      "quantity": 1,
+      "totalAmount": 12,
+      "status": "created",
+      "createdAt": "2026-02-20T03:03:28.340Z",
+      "updatedAt": "2026-02-20T03:03:28.340Z"
+    },
+    {
+      "id": "ORD-000003",
+      "postId": "P000004",
+      "buyerId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "sellerId": "086fe34a-57e1-48aa-a4a4-88f0431da03a",
+      "title": "nyv",
+      "image": "/uploads/posts/29-1771556661041-02aed3b1.png",
+      "unitPrice": 22,
+      "quantity": 1,
+      "totalAmount": 22,
+      "status": "created",
+      "createdAt": "2026-02-20T03:11:24.945Z",
+      "updatedAt": "2026-02-20T03:11:24.945Z"
+    }
+  ]
+}

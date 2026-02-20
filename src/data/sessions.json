@@ -1,0 +1,39 @@
+{
+  "sessions": [
+    {
+      "sessionId": "a6657f08-b830-454f-a0f7-843a04a846a6",
+      "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTU4NTM4NiwiZXhwIjoxNzcyMTkwMTg2fQ.E0Is_aC50R46qbGMGqLgJUF1g1KZb9IwyB_CJhxr3-I",
+      "createdAt": "2026-02-20T11:03:06.145Z",
+      "expiresAt": "2026-02-27T11:03:06.145Z"
+    },
+    {
+      "sessionId": "8529ce7b-bf4d-4d2c-9643-6fe3e0d06e4c",
+      "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTU5MDA1OCwiZXhwIjoxNzcyMTk0ODU4fQ.Yv6YE7GdJdILHceGwwdu6yFkOr1ICgvWckeegVsXQn4",
+      "createdAt": "2026-02-20T12:20:58.166Z",
+      "expiresAt": "2026-02-27T12:20:58.166Z"
+    },
+    {
+      "sessionId": "13f98b18-2e2b-46a6-b4de-312ec30c85af",
+      "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTU5MTU2OCwiZXhwIjoxNzcyMTk2MzY4fQ.i7HPhGaWsF8RtcUjc3SAQwTi6cgyOc1LZSvdFRB-8b0",
+      "createdAt": "2026-02-20T12:46:08.382Z",
+      "expiresAt": "2026-02-27T12:46:08.382Z"
+    },
+    {
+      "sessionId": "d8f3edf4-05d6-4d9c-93c8-4e4d091da5ae",
+      "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTYwMTkwOCwiZXhwIjoxNzcyMjA2NzA4fQ.k6neQktOleDoily1AEusmlTVgJ9d2Hxy6cBBAs5Wsu0",
+      "createdAt": "2026-02-20T15:38:28.313Z",
+      "expiresAt": "2026-02-27T15:38:28.313Z"
+    },
+    {
+      "sessionId": "8e0daeee-e7a0-400e-86a3-fb354e1b1373",
+      "userId": "5af46884-677c-4e6b-ae88-a2a398c949e8",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVhZjQ2ODg0LTY3N2MtNGU2Yi1hZTg4LWEyYTM5OGM5NDllOCIsImlhdCI6MTc3MTYwMzk4MCwiZXhwIjoxNzcyMjA4NzgwfQ.BcErzrJaBNvArrWySlNzRvyScRBxFujxKYs9K4jMQZ4",
+      "createdAt": "2026-02-20T16:13:00.050Z",
+      "expiresAt": "2026-02-27T16:13:00.050Z"
+    }
+  ]
+}
